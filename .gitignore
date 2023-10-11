@@ -2,7 +2,7 @@
 ### IntelliJ IDEA ###
 .idea
 out
-.ime
+Javadi.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
